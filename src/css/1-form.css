@@ -51,6 +51,14 @@ input {
   border: 1px solid #808080;
 }
 
+input:hover {
+  border: 1px solid #000;
+}
+
+input:active {
+  border: 1px solid #808080;
+}
+
 label {
   display: flex;
   flex-direction: column;
